@@ -21,6 +21,6 @@ class Ohgiraffers{
   String team = 'ohgiraffers';
 
   void nagging(){
-    print('공부하세요!!!!');
+    print('공부하세요!!!!!');
   }
 }
